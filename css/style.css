@@ -174,7 +174,7 @@ section {
 .product .banner_section,
 .gallery .banner_section,
 .contact .banner_section {
-  background: url(../images/banner-slide/top-banner.jpg);
+  background: url(./images/banner-slide/top-banner.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -334,7 +334,7 @@ section {
 
 
 .landing_about_section{
-  background: url(/images/about/about-banner.jpg);
+  background: url(../images/about/about-banner.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -400,7 +400,7 @@ section {
   border-radius:50%;
 }
 .testimonial_section .card{
-  background: url(/images/testimonial/testimonial-bg.png);
+  background: url(../images/testimonial/testimonial-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -428,7 +428,7 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  padding-top: 10rem;
+  padding-top: 20rem;
   padding-bottom: 0rem;
 }
 /* .footer-wrapper p{
@@ -512,7 +512,7 @@ section {
 }
 .footer-wrapper .copyright-section p{
   margin-top: 0;
-  padding: 2rem 0;
+  padding: 1rem 0;
   line-height: 0;
 
 }
